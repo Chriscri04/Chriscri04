@@ -1,6 +1,6 @@
-## Hi there! My Name is Christian, but you can call me Chispaz 👋
+# Hi there! My Name is Christian, but you can call me Chispaz 👋
 
-## 💻 Un poco sobre mí:
+# 💻 Un poco sobre mí:
 
 - 🎓 Estudiante de 3er año de Ingeniería
 - 🤖 Apasionado Por la inteligencia artificial y el aprendizaje continuo
@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Lenguajes & Tecnologías:
+# 🛠️ Lenguajes & Tecnologías:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -20,16 +20,16 @@
 
 ---
 
-## 🎯 Objetivo:
+# 🎯 Objetivo:
 
 Desarrollarme como ingeniero a lo largo de mi carrera y especializarme en **Inteligencia Artificial**.
 
 ---
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 ![Chispaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chriscri04&show_icons=true&theme=tokyonight)
 
-## 🚀 Proyectos:
+# 🚀 Proyectos:
 - 🗃️ [ChepeYaNoTePresta](#) — Sistema contable en PHP/MySQL
 - 🦐 [Aquaculture AI](#) — Interfaz de chat con IA para acuacultura
 
