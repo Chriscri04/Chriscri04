@@ -3,8 +3,8 @@
 ## 💻 Un poco sobre mí:
 
 - 🎓 Estudiante de 3er año de Ingeniería
-- 🤖 Apasionado por la tecnología y la Inteligencia Artificial
-- 🌱 Actualmente desarrollando mis habilidades en desarrollo web y sistemas
+- 🤖 Apasionado Por la inteligencia artificial y el aprendizaje continuo
+- 🌱 Actualmente Aprendiendo a programar de la mejor manera posible
 
 ---
 
