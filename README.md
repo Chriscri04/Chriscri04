@@ -19,6 +19,11 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+# 🤓 Aprendizaje Actual
+
+- 🧠 REACT, Next.JS, PHP, SQL
+
+---
 
 # 🎯 Objetivo:
 
@@ -32,5 +37,13 @@ Desarrollarme como ingeniero a lo largo de mi carrera y especializarme en **Inte
 # 🚀 Proyectos:
 - 🗃️ [ChepeYaNoTePresta](#) — Sistema contable en PHP/MySQL
 - 🦐 [Aquaculture AI](#) — Interfaz de chat con IA para acuacultura
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Chriscri04&theme=tokyonight)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chriscri04&layout=compact&theme=tokyonight)
 
 > "Nunca digas que no puedes, si no lo intentas y sangras"
